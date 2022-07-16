@@ -1,5 +1,7 @@
 # VendingMachine
 
+**Lexicon Assignment 4: Vending Machine**
+
 Your assignment for this week is to make a vending machine. It should be able to take requests from the user as to what product it is supposed to return. It should alsotake payment, and send the product back to the user with an appropriate amount of change.
 
 ## Required Features:
