@@ -8,7 +8,7 @@ Your assignment for this week is to make a vending machine. It should be able to
 
 * Money should be input in fixed denominations: 1kr, 5kr, 10kr, 20kr, 50kr, 100kr, 500kr and 1000kr.
 
-* The user should be able to put any amount of money in, adding to the “money pool”.
+* The user should be able to put any amount of money in, adding to the "money pool".
 
 * The money inserted MUST be of a valid denomination.
 
@@ -20,7 +20,7 @@ Your assignment for this week is to make a vending machine. It should be able to
 
 * All products must be stored in one collection only.
 
-* Once a product has been purchased, the user should be able to use it, showing a message about how it is used (drink the drink, eat the snacketc.)
+* Once a product has been purchased, the user should be able to use it, showing a message about how it is used (drink the drink, eat the snack, etc.)
 
 ## Code Requirements:
 
